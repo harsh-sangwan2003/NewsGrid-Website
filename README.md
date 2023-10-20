@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/NewsGrid-Website/)
+- [Link](https://news-grid-website-eight.vercel.app/)
 
 A quick guide to my Project ->
 
