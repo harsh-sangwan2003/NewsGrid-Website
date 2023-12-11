@@ -19,7 +19,7 @@ A quick guide to my Project ->
 
 ## Usage
 
-Website for a fictional news channel.
+Immerse yourself in the digital domain of a fictional news channel, where journalistic prowess meets creativity—an embodiment of my portfolio's storytelling finesse and multimedia expertise.
 
 Click on
 
